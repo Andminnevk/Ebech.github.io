@@ -1,0 +1,243 @@
+[17-Jun-2012 04:01:51] PHP Fatal error:  Class 'se_group' not found in /home/u388590976/public_html/header.php on line 158
+[17-Jun-2012 04:35:56] PHP Fatal error:  Smarty error: [in header.tpl line 165]: syntax error: unexpected {else} (Smarty_Compiler.class.php, line 471) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 04:35:58] PHP Fatal error:  Smarty error: [in header.tpl line 165]: syntax error: unexpected {else} (Smarty_Compiler.class.php, line 471) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 04:37:20] PHP Fatal error:  Smarty error: [in header.tpl line 165]: syntax error: unexpected {else} (Smarty_Compiler.class.php, line 471) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 04:37:22] PHP Fatal error:  Smarty error: [in header.tpl line 165]: syntax error: unexpected {else} (Smarty_Compiler.class.php, line 471) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 04:38:27] PHP Fatal error:  Smarty error: [in header.tpl line 165]: syntax error: unexpected {else} (Smarty_Compiler.class.php, line 471) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 04:39:10] PHP Fatal error:  Smarty error: [in header.tpl line 165]: syntax error: unexpected {else} (Smarty_Compiler.class.php, line 471) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 04:40:07] PHP Fatal error:  Smarty error: [in header.tpl line 165]: syntax error: unexpected {else} (Smarty_Compiler.class.php, line 471) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 04:40:08] PHP Fatal error:  Smarty error: [in header.tpl line 165]: syntax error: unexpected {else} (Smarty_Compiler.class.php, line 471) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 04:40:12] PHP Fatal error:  Smarty error: [in header.tpl line 165]: syntax error: unexpected {else} (Smarty_Compiler.class.php, line 471) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 04:40:37] PHP Fatal error:  Smarty error: [in header.tpl line 165]: syntax error: unexpected {else} (Smarty_Compiler.class.php, line 471) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 04:40:39] PHP Fatal error:  Smarty error: [in header.tpl line 165]: syntax error: unexpected {else} (Smarty_Compiler.class.php, line 471) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 04:40:40] PHP Fatal error:  Smarty error: [in header.tpl line 165]: syntax error: unexpected {else} (Smarty_Compiler.class.php, line 471) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 04:41:38] PHP Fatal error:  Smarty error: [in header.tpl line 165]: syntax error: unexpected {else} (Smarty_Compiler.class.php, line 471) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 04:41:39] PHP Fatal error:  Smarty error: [in header.tpl line 165]: syntax error: unexpected {else} (Smarty_Compiler.class.php, line 471) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 04:43:40] PHP Fatal error:  Class 'se_group' not found in /home/u388590976/public_html/header.php on line 158
+[17-Jun-2012 04:43:42] PHP Fatal error:  Class 'se_group' not found in /home/u388590976/public_html/header.php on line 158
+[17-Jun-2012 04:44:33] PHP Fatal error:  Class 'se_group' not found in /home/u388590976/public_html/header.php on line 158
+[17-Jun-2012 04:44:34] PHP Fatal error:  Class 'se_group' not found in /home/u388590976/public_html/header.php on line 158
+[17-Jun-2012 05:09:16] PHP Fatal error:  Smarty error: [in profile.tpl line 679]: syntax error: unclosed tag \{if} (opened line 610). (Smarty_Compiler.class.php, line 320) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 05:11:32] PHP Fatal error:  Smarty error: [in profile.tpl line 679]: syntax error: unclosed tag \{if} (opened line 610). (Smarty_Compiler.class.php, line 320) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 05:18:07] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/u388590976/public_html/include/smarty/Smarty_Compiler.class.php on line 621
+[17-Jun-2012 05:18:48] PHP Parse error:  syntax error, unexpected T_IF, expecting T_FUNCTION in /home/u388590976/public_html/include/smarty/Smarty_Compiler.class.php on line 621
+[17-Jun-2012 05:19:10] PHP Fatal error:  Smarty error: [in profile.tpl line 679]: syntax error: unclosed tag \{if} (opened line 610). (Smarty_Compiler.class.php, line 320) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 05:20:24] PHP Fatal error:  Smarty error: [in profile.tpl line 679]: syntax error: unclosed tag \{if} (opened line 610). (Smarty_Compiler.class.php, line 320) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 05:20:25] PHP Fatal error:  Call to a member function assign() on a non-object in /home/u388590976/public_html/profile.php on line 9
+[17-Jun-2012 05:20:26] PHP Fatal error:  Class 'se_group' not found in /home/u388590976/public_html/header.php on line 158
+[17-Jun-2012 05:20:27] PHP Fatal error:  Class 'se_group' not found in /home/u388590976/public_html/header.php on line 158
+[17-Jun-2012 05:20:28] PHP Fatal error:  Class 'se_group' not found in /home/u388590976/public_html/header.php on line 158
+[17-Jun-2012 05:20:28] PHP Fatal error:  Class 'se_group' not found in /home/u388590976/public_html/header.php on line 158
+[17-Jun-2012 05:24:04] PHP Fatal error:  Class 'se_group' not found in /home/u388590976/public_html/header.php on line 158
+[17-Jun-2012 05:24:05] PHP Fatal error:  Class 'se_group' not found in /home/u388590976/public_html/header.php on line 158
+[17-Jun-2012 05:38:37] PHP Fatal error:  Class 'se_group' not found in /home/u388590976/public_html/user_group.php on line 93
+[17-Jun-2012 05:47:44] PHP Fatal error:  Smarty error: [in home.tpl line 1]: syntax error: unrecognized tag:  in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 05:47:46] PHP Fatal error:  Smarty error: [in home.tpl line 1]: syntax error: unrecognized tag:  in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 06:00:16] PHP Fatal error:  Class 'se_group' not found in /home/u388590976/public_html/user_group_browse.php on line 9
+[17-Jun-2012 06:03:58] PHP Warning:  Smarty error: unable to read resource: "people.tpl" in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 06:16:34] PHP Fatal error:  Class 'se_group' not found in /home/u388590976/public_html/user_home.php on line 18
+[17-Jun-2012 06:16:37] PHP Fatal error:  Class 'se_group' not found in /home/u388590976/public_html/user_group.php on line 93
+[17-Jun-2012 06:28:42] PHP Fatal error:  Class 'se_group' not found in /home/u388590976/public_html/user_group_browse.php on line 9
+[17-Jun-2012 06:30:21] PHP Fatal error:  Class 'se_group' not found in /home/u388590976/public_html/user_home.php on line 18
+[17-Jun-2012 06:30:33] PHP Fatal error:  Smarty error: [in user_friends_add.tpl line 5]: syntax error: mismatched tag {/if}. (Smarty_Compiler.class.php, line 2289) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 06:30:41] PHP Fatal error:  Class 'se_group' not found in /home/u388590976/public_html/user_group_browse.php on line 9
+[17-Jun-2012 06:36:57] PHP Parse error:  syntax error, unexpected ';' in /home/u388590976/public_html/include/smarty/templates_c/%%BA^BAA^BAA323DD%%profile.tpl.php on line 985
+[17-Jun-2012 06:37:00] PHP Parse error:  syntax error, unexpected ';' in /home/u388590976/public_html/include/smarty/templates_c/%%BA^BAA^BAA323DD%%profile.tpl.php on line 985
+[17-Jun-2012 06:37:53] PHP Fatal error:  Smarty error: [in user_friends_add.tpl line 5]: syntax error: mismatched tag {/if}. (Smarty_Compiler.class.php, line 2289) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 06:59:31] PHP Fatal error:  Smarty error: [in album_file.tpl line 313]: syntax error: mismatched tag {/if}. (Smarty_Compiler.class.php, line 2289) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 06:59:56] PHP Fatal error:  Smarty error: [in album_file.tpl line 313]: syntax error: mismatched tag {/if}. (Smarty_Compiler.class.php, line 2289) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 07:05:54] PHP Fatal error:  Smarty error: [in user_friends_add.tpl line 5]: syntax error: mismatched tag {/if}. (Smarty_Compiler.class.php, line 2289) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 07:15:24] PHP Fatal error:  Class 'se_group' not found in /home/u388590976/public_html/user_home.php on line 18
+[17-Jun-2012 07:29:50] PHP Fatal error:  Class 'se_group' not found in /home/u388590976/public_html/user_home.php on line 18
+[17-Jun-2012 07:29:54] PHP Fatal error:  Class 'se_group' not found in /home/u388590976/public_html/user_home.php on line 18
+[17-Jun-2012 07:30:28] PHP Fatal error:  Class 'se_group' not found in /home/u388590976/public_html/user_home.php on line 18
+[17-Jun-2012 07:35:11] PHP Fatal error:  Class 'se_group' not found in /home/u388590976/public_html/user_home.php on line 18
+[17-Jun-2012 07:39:13] PHP Fatal error:  Class 'se_group' not found in /home/u388590976/public_html/user_home.php on line 18
+[17-Jun-2012 07:39:18] PHP Fatal error:  Class 'se_group' not found in /home/u388590976/public_html/user_home.php on line 18
+[17-Jun-2012 07:40:00] PHP Fatal error:  Class 'se_group' not found in /home/u388590976/public_html/user_home.php on line 18
+[17-Jun-2012 07:40:01] PHP Fatal error:  Class 'se_group' not found in /home/u388590976/public_html/user_home.php on line 18
+[17-Jun-2012 07:40:44] PHP Fatal error:  Class 'se_group' not found in /home/u388590976/public_html/user_home.php on line 18
+[17-Jun-2012 07:41:19] PHP Fatal error:  Class 'se_group' not found in /home/u388590976/public_html/user_home.php on line 18
+[17-Jun-2012 07:51:19] PHP Fatal error:  Smarty error: [in user_group_add.tpl line 348]: syntax error: unrecognized tag '/literal' (Smarty_Compiler.class.php, line 583) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 07:52:30] PHP Fatal error:  Smarty error: [in user_group_add.tpl line 348]: syntax error: mismatched tag {/if}. (Smarty_Compiler.class.php, line 2289) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 07:52:32] PHP Fatal error:  Smarty error: [in user_group_add.tpl line 348]: syntax error: mismatched tag {/if}. (Smarty_Compiler.class.php, line 2289) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 08:03:31] PHP Fatal error:  Smarty error: [in group.tpl line 4]: syntax error: unrecognized tag 'lang_print' (Smarty_Compiler.class.php, line 583) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 08:03:50] PHP Fatal error:  Smarty error: [in group.tpl line 4]: syntax error: unrecognized tag 'lang_print' (Smarty_Compiler.class.php, line 583) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 08:04:15] PHP Fatal error:  Smarty error: [in group.tpl line 49]: syntax error: unrecognized tag 'lang_print' (Smarty_Compiler.class.php, line 583) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 08:30:03] PHP Fatal error:  Call to a member function user_photo() on a non-object in /home/u388590976/public_html/include/smarty/templates_c/%%49^49B^49BE10F2%%user_messages_new.tpl.php on line 39
+[17-Jun-2012 08:31:49] PHP Fatal error:  Class 'se_event' not found in /home/u388590976/public_html/user_event.php on line 32
+[17-Jun-2012 08:50:05] PHP Fatal error:  Class 'se_event' not found in /home/u388590976/public_html/user_event.php on line 32
+[17-Jun-2012 09:16:57] PHP Fatal error:  Class 'se_event' not found in /home/u388590976/public_html/user_event.php on line 32
+[17-Jun-2012 09:47:00] PHP Fatal error:  Class 'se_event' not found in /home/u388590976/public_html/user_event.php on line 32
+[17-Jun-2012 10:30:50] PHP Fatal error:  Class 'se_event' not found in /home/u388590976/public_html/user_event.php on line 32
+[17-Jun-2012 10:34:37] PHP Warning:  Smarty error: unable to read resource: "user_graffiti.php" in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[17-Jun-2012 11:41:51] PHP Fatal error:  Class 'se_event' not found in /home/u388590976/public_html/user_event.php on line 32
+[17-Jun-2012 12:07:16] PHP Fatal error:  Class 'se_event' not found in /home/u388590976/public_html/user_event.php on line 32
+[17-Jun-2012 12:08:35] PHP Fatal error:  Class 'se_event' not found in /home/u388590976/public_html/user_event.php on line 32
+[17-Jun-2012 17:04:08] PHP Parse error:  syntax error, unexpected T_CASE in /home/u388590976/public_html/lang/lang_english.php on line 4
+[17-Jun-2012 17:04:19] PHP Parse error:  syntax error, unexpected T_CASE in /home/u388590976/public_html/lang/lang_english.php on line 4
+[17-Jun-2012 17:04:20] PHP Parse error:  syntax error, unexpected T_CASE in /home/u388590976/public_html/lang/lang_english.php on line 4
+[17-Jun-2012 17:04:23] PHP Parse error:  syntax error, unexpected T_CASE in /home/u388590976/public_html/lang/lang_english.php on line 4
+[17-Jun-2012 17:04:30] PHP Parse error:  syntax error, unexpected T_CASE in /home/u388590976/public_html/lang/lang_english.php on line 4
+[17-Jun-2012 17:07:49] PHP Parse error:  syntax error, unexpected T_STRING in /home/u388590976/public_html/lang/lang_russian.php on line 713
+[17-Jun-2012 17:07:49] PHP Parse error:  syntax error, unexpected T_STRING in /home/u388590976/public_html/lang/lang_russian.php on line 713
+[17-Jun-2012 17:07:51] PHP Parse error:  syntax error, unexpected T_STRING in /home/u388590976/public_html/lang/lang_russian.php on line 713
+[17-Jun-2012 17:07:52] PHP Parse error:  syntax error, unexpected T_STRING in /home/u388590976/public_html/lang/lang_russian.php on line 713
+[17-Jun-2012 17:08:20] PHP Parse error:  syntax error, unexpected T_STRING in /home/u388590976/public_html/lang/lang_russian.php on line 713
+[17-Jun-2012 17:08:20] PHP Parse error:  syntax error, unexpected T_STRING in /home/u388590976/public_html/lang/lang_russian.php on line 713
+[17-Jun-2012 17:20:48] PHP Parse error:  syntax error, unexpected T_STRING in /home/u388590976/public_html/lang/lang_russian.php on line 713
+[17-Jun-2012 17:20:48] PHP Parse error:  syntax error, unexpected T_STRING in /home/u388590976/public_html/lang/lang_russian.php on line 713
+[18-Jun-2012 07:10:20] PHP Fatal error:  Smarty error: [in profile.tpl line 204]: syntax error: unrecognized tag: webcam: 1, flash: browser.flash (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[18-Jun-2012 07:20:25] PHP Fatal error:  Class 'se_gifts' not found in /home/u388590976/public_html/profile.php on line 104
+[18-Jun-2012 08:06:12] PHP Fatal error:  Smarty error: [in profile.tpl line 712]: syntax error: mismatched tag {/if}. (Smarty_Compiler.class.php, line 2289) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[18-Jun-2012 08:06:51] PHP Fatal error:  Smarty error: [in profile.tpl line 715]: syntax error: mismatched tag {/if}. (Smarty_Compiler.class.php, line 2289) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[18-Jun-2012 08:06:53] PHP Fatal error:  Smarty error: [in profile.tpl line 715]: syntax error: mismatched tag {/if}. (Smarty_Compiler.class.php, line 2289) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[18-Jun-2012 08:40:25] PHP Fatal error:  Smarty error: [in profile.tpl line 714]: syntax error: mismatched tag {/if}. (Smarty_Compiler.class.php, line 2289) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[18-Jun-2012 08:40:53] PHP Fatal error:  Smarty error: [in profile.tpl line 713]: syntax error: mismatched tag {/if}. (Smarty_Compiler.class.php, line 2289) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[18-Jun-2012 08:40:56] PHP Fatal error:  Smarty error: [in profile.tpl line 713]: syntax error: mismatched tag {/if}. (Smarty_Compiler.class.php, line 2289) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[18-Jun-2012 09:27:10] PHP Fatal error:  Smarty error: [in profile.tpl line 744]: syntax error: mismatched tag {/if}. expected {/section} (opened line 718). (Smarty_Compiler.class.php, line 2289) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[18-Jun-2012 09:27:59] PHP Fatal error:  Smarty error: [in profile.tpl line 746]: syntax error: mismatched tag {/if}. expected {/section} (opened line 720). (Smarty_Compiler.class.php, line 2289) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[18-Jun-2012 09:28:01] PHP Fatal error:  Smarty error: [in profile.tpl line 746]: syntax error: mismatched tag {/if}. expected {/section} (opened line 720). (Smarty_Compiler.class.php, line 2289) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[18-Jun-2012 09:28:38] PHP Fatal error:  Smarty error: [in profile.tpl line 707]: syntax error: mismatched tag {/if}. expected {/section} (opened line 678). (Smarty_Compiler.class.php, line 2289) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[18-Jun-2012 09:37:42] PHP Parse error:  syntax error, unexpected '/' in /home/u388590976/public_html/include/smarty/templates_c/%%BA^BAA^BAA323DD%%profile.tpl.php on line 1022
+[18-Jun-2012 09:38:06] PHP Parse error:  syntax error, unexpected '/' in /home/u388590976/public_html/include/smarty/templates_c/%%BA^BAA^BAA323DD%%profile.tpl.php on line 1022
+[18-Jun-2012 09:38:07] PHP Parse error:  syntax error, unexpected '/' in /home/u388590976/public_html/include/smarty/templates_c/%%BA^BAA^BAA323DD%%profile.tpl.php on line 1022
+[18-Jun-2012 09:38:52] PHP Parse error:  syntax error, unexpected '/' in /home/u388590976/public_html/include/smarty/templates_c/%%BA^BAA^BAA323DD%%profile.tpl.php on line 1022
+[18-Jun-2012 09:39:07] PHP Parse error:  syntax error, unexpected '/' in /home/u388590976/public_html/include/smarty/templates_c/%%BA^BAA^BAA323DD%%profile.tpl.php on line 1022
+[18-Jun-2012 09:39:10] PHP Parse error:  syntax error, unexpected '/' in /home/u388590976/public_html/include/smarty/templates_c/%%BA^BAA^BAA323DD%%profile.tpl.php on line 1022
+[18-Jun-2012 09:39:24] PHP Parse error:  syntax error, unexpected '/' in /home/u388590976/public_html/include/smarty/templates_c/%%BA^BAA^BAA323DD%%profile.tpl.php on line 1022
+[18-Jun-2012 09:39:36] PHP Parse error:  syntax error, unexpected '/' in /home/u388590976/public_html/include/smarty/templates_c/%%BA^BAA^BAA323DD%%profile.tpl.php on line 1022
+[18-Jun-2012 09:40:25] PHP Parse error:  syntax error, unexpected '/' in /home/u388590976/public_html/include/smarty/templates_c/%%BA^BAA^BAA323DD%%profile.tpl.php on line 1022
+[18-Jun-2012 09:40:27] PHP Parse error:  syntax error, unexpected '/' in /home/u388590976/public_html/include/smarty/templates_c/%%BA^BAA^BAA323DD%%profile.tpl.php on line 1022
+[18-Jun-2012 09:40:33] PHP Parse error:  syntax error, unexpected '/' in /home/u388590976/public_html/include/smarty/templates_c/%%BA^BAA^BAA323DD%%profile.tpl.php on line 1022
+[18-Jun-2012 09:41:06] PHP Parse error:  syntax error, unexpected '/' in /home/u388590976/public_html/include/smarty/templates_c/%%BA^BAA^BAA323DD%%profile.tpl.php on line 1022
+[18-Jun-2012 09:42:09] PHP Parse error:  syntax error, unexpected '/' in /home/u388590976/public_html/include/smarty/templates_c/%%BA^BAA^BAA323DD%%profile.tpl.php on line 1022
+[18-Jun-2012 09:45:46] PHP Warning:  Smarty error: math: parameter x is empty in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[18-Jun-2012 09:45:59] PHP Warning:  Smarty error: math: parameter x is empty in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[19-Jun-2012 05:31:20] PHP Fatal error:  Smarty error: [in user_event_add.tpl line 322]: syntax error: mismatched tag {/if}. (Smarty_Compiler.class.php, line 2289) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[19-Jun-2012 13:05:13] PHP Fatal error:  Smarty error: [in profile.tpl line 734]: syntax error: unidentified token '[coНаписать' (Smarty_Compiler.class.php, line 1396) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[19-Jun-2012 13:06:41] PHP Fatal error:  Smarty error: [in profile.tpl line 734]: syntax error: unrecognized tag: $comments[comment_loop]Написать на моей стене/div.comment_author->user_info.user_username (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[19-Jun-2012 13:09:13] PHP Fatal error:  Smarty error: [in profile.tpl line 734]: syntax error: unidentified token 'Написать' (Smarty_Compiler.class.php, line 1396) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[19-Jun-2012 14:09:59] PHP Fatal error:  Smarty error: [in profile.tpl line 774]: syntax error: unrecognized tag: $url-/h2ообщение</small></a>{/if (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[19-Jun-2012 14:10:54] PHP Fatal error:  Smarty error: [in profile.tpl line 755]: syntax error: unrecognized tag: $misc->photo_size($comments[cНаписать на моей стене
+   a href='{$url-div style="position:absolute; float:right; overflow:visible; color: #A9A26C; width:200px; text-align:center; font-family: arial, serif; line-height:16px"
+ omment_loop].comment_author->user_photo('./images/nophoto.gif'),'50','190','w') (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[19-Jun-2012 14:20:57] PHP Fatal error:  Smarty error: [in profile.tpl line 739]: syntax error: unidentified token '[comment_Написать' (Smarty_Compiler.class.php, line 1396) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[19-Jun-2012 14:21:41] PHP Fatal error:  Smarty error: [in profile.tpl line 763]: syntax error: unclosed tag \{else} (opened line 298). (Smarty_Compiler.class.php, line 320) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[19-Jun-2012 14:22:35] PHP Fatal error:  Smarty error: [in profile.tpl line 734]: syntax error: unrecognized tag: $comments[comment_loop].comment_author->user_inНаписать на моей стене
+   a href='{$url-
+ fo.user_username (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[19-Jun-2012 14:23:34] PHP Fatal error:  Smarty error: [in profile.tpl line 755]: syntax error: unrecognized tag: $misc->photo_size($comments[cНаписать на моей стене
+   a href='{$url-div style="position:absolute; float:right; overflow:visible; color: #A9A26C; width:200px; text-align:center; font-family: arial, serif; line-height:16px"
+ omment_loop].comment_author->user_photo('./images/nophoto.gif'),'50','190','w') (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[19-Jun-2012 14:56:14] PHP Fatal error:  Smarty error: [in header.tpl line 187]: syntax error: unclosed tag \{if} (opened line 106). (Smarty_Compiler.class.php, line 320) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[19-Jun-2012 14:56:41] PHP Fatal error:  Smarty error: [in header.tpl line 185]: syntax error: unclosed tag \{if} (opened line 106). (Smarty_Compiler.class.php, line 320) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[19-Jun-2012 14:56:41] PHP Fatal error:  Smarty error: [in header.tpl line 185]: syntax error: unclosed tag \{if} (opened line 106). (Smarty_Compiler.class.php, line 320) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[19-Jun-2012 14:57:58] PHP Fatal error:  Smarty error: [in header.tpl line 185]: syntax error: unclosed tag \{if} (opened line 171). (Smarty_Compiler.class.php, line 320) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[19-Jun-2012 14:57:58] PHP Fatal error:  Smarty error: [in header.tpl line 185]: syntax error: unclosed tag \{if} (opened line 171). (Smarty_Compiler.class.php, line 320) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[19-Jun-2012 16:57:34] PHP Warning:  Smarty error: unable to read resource: "header_gifts.tpl" in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[19-Jun-2012 16:57:34] PHP Warning:  Smarty error: unable to read resource: "header_gifts.tpl" in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[19-Jun-2012 16:57:35] PHP Warning:  Smarty error: unable to read resource: "header_gifts.tpl" in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[19-Jun-2012 16:57:35] PHP Warning:  Smarty error: unable to read resource: "header_gifts.tpl" in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[19-Jun-2012 16:58:10] PHP Warning:  Smarty error: unable to read resource: "header_gifts.tpl" in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[19-Jun-2012 16:58:10] PHP Warning:  Smarty error: unable to read resource: "header_gifts.tpl" in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[19-Jun-2012 16:59:46] PHP Fatal error:  Smarty error: [in user_gifts_add.tpl line 15]: syntax error: unrecognized tag: $to=$owner->user_info['user_id'];
+$from=$user->user_info['user_id'];
+$gifts_id=(int)$_POST['gifts_id'];
+$gifts = new se_gifts();
+$gifts = $gifts->gifts_list(0, 100,'gifts_id DESC',"gifts_id='$gifts_id'");
+$gifts_comment=$_POST['gifts_comment'];
+if($gifts[0]['gifts_id'] > 0){
+if($user->user_info['user_points'] >= $gifts[0]['gifts_price']){
+  $gifts_comment = censor(str_replace("\\r\\n", "<br>", $gifts_comment));
+  $gifts_comment = preg_replace('/(<br>){3, (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 05:45:03] PHP Fatal error:  Smarty error: [in header.tpl line 55]: syntax error: unrecognized tag 'var' (Smarty_Compiler.class.php, line 583) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 05:45:20] PHP Fatal error:  Smarty error: [in header.tpl line 55]: syntax error: unrecognized tag 'var' (Smarty_Compiler.class.php, line 583) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 05:45:28] PHP Fatal error:  Smarty error: [in header.tpl line 55]: syntax error: unrecognized tag 'var' (Smarty_Compiler.class.php, line 583) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 05:47:32] PHP Fatal error:  Smarty error: [in header.tpl line 55]: syntax error: unrecognized tag 'var' (Smarty_Compiler.class.php, line 583) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 05:47:32] PHP Fatal error:  Smarty error: [in header.tpl line 55]: syntax error: unrecognized tag 'var' (Smarty_Compiler.class.php, line 583) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 05:47:34] PHP Fatal error:  Smarty error: [in header.tpl line 55]: syntax error: unrecognized tag 'var' (Smarty_Compiler.class.php, line 583) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 05:47:35] PHP Fatal error:  Smarty error: [in header.tpl line 55]: syntax error: unrecognized tag 'var' (Smarty_Compiler.class.php, line 583) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 05:50:09] PHP Fatal error:  Smarty error: [in header.tpl line 56]: syntax error: unrecognized tag: document.write(' n ' (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 05:50:10] PHP Fatal error:  Smarty error: [in header.tpl line 56]: syntax error: unrecognized tag: document.write(' n ' (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 05:57:34] PHP Fatal error:  Smarty error: [in header.tpl line 56]: syntax error: unrecognized tag: document.write(' n '); (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 05:57:34] PHP Fatal error:  Smarty error: [in header.tpl line 56]: syntax error: unrecognized tag: document.write(' n '); (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 05:59:01] PHP Fatal error:  Smarty error: [in header.tpl line 56]: syntax error: unrecognized tag: document.write(' n '); (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 05:59:02] PHP Fatal error:  Smarty error: [in header.tpl line 56]: syntax error: unrecognized tag: document.write(' n '); (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 06:00:01] PHP Fatal error:  Smarty error: [in header.tpl line 56]: syntax error: unrecognized tag: document.write(' n '); (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 06:00:02] PHP Fatal error:  Smarty error: [in header.tpl line 56]: syntax error: unrecognized tag: document.write(' n '); (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 06:00:10] PHP Fatal error:  Smarty error: [in header.tpl line 56]: syntax error: unrecognized tag: document.write('<div id="greenBar1">'); (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 06:00:10] PHP Fatal error:  Smarty error: [in header.tpl line 56]: syntax error: unrecognized tag: document.write('<div id="greenBar1">'); (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 06:00:14] PHP Fatal error:  Smarty error: [in header.tpl line 56]: syntax error: unrecognized tag: document.write('<div id="greenBar1">'); (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 06:00:14] PHP Fatal error:  Smarty error: [in header.tpl line 56]: syntax error: unrecognized tag: document.write('<div id="greenBar1">'); (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 06:01:13] PHP Fatal error:  Smarty error: [in header.tpl line 56]: syntax error: unrecognized tag: document.write('<div id="greenBar1">'); (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 06:01:14] PHP Fatal error:  Smarty error: [in header.tpl line 56]: syntax error: unrecognized tag: document.write('<div id="greenBar1">'); (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 06:06:26] PHP Fatal error:  Smarty error: [in header.tpl line 132]: syntax error: unrecognized tag 'echo' (Smarty_Compiler.class.php, line 583) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 06:06:27] PHP Fatal error:  Smarty error: [in header.tpl line 132]: syntax error: unrecognized tag 'echo' (Smarty_Compiler.class.php, line 583) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 06:11:59] PHP Fatal error:  Smarty error: [in header.tpl line 56]: syntax error: unrecognized tag: document.write('+n+'); (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 06:11:59] PHP Fatal error:  Smarty error: [in header.tpl line 56]: syntax error: unrecognized tag: document.write('+n+'); (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 06:12:18] PHP Fatal error:  Smarty error: [in header.tpl line 56]: syntax error: unrecognized tag: document.write(+n+); (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 06:12:18] PHP Fatal error:  Smarty error: [in header.tpl line 56]: syntax error: unrecognized tag: document.write(+n+); (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 06:12:52] PHP Fatal error:  Smarty error: [in header.tpl line 56]: syntax error: unrecognized tag: document.write(n); (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 06:12:52] PHP Fatal error:  Smarty error: [in header.tpl line 56]: syntax error: unrecognized tag: document.write(n); (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 06:13:12] PHP Fatal error:  Smarty error: [in header.tpl line 56]: syntax error: unrecognized tag: document.write('<img border="0" src="/logo/'+n+'.gif">'); (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 06:13:12] PHP Fatal error:  Smarty error: [in header.tpl line 56]: syntax error: unrecognized tag: document.write('<img border="0" src="/logo/'+n+'.gif">'); (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 07:41:27] PHP Fatal error:  Smarty error: [in header.tpl line 181]: syntax error: unexpected {else} (Smarty_Compiler.class.php, line 471) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 07:44:11] PHP Warning:  Smarty error: unable to read resource: "admin.tpl" in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 08:14:36] PHP Fatal error:  Smarty error: [in header.tpl line 180]: syntax error: unexpected {else} (Smarty_Compiler.class.php, line 471) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 08:35:13] PHP Fatal error:  Smarty error: [in profile.tpl line 751]: syntax error: unidentified token 'Написать' (Smarty_Compiler.class.php, line 1396) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 10:59:26] PHP Fatal error:  Smarty error: [in gsearch_people.tpl line 1]: syntax error: unrecognized tag: selectedItems: '',   noResult: 'Ничего не найдено',   width: 150,   onChange: updResults (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 12:28:13] PHP Fatal error:  Smarty error: [in profile.tpl line 756]: syntax error: unrecognized tag: $datetime->cdate("`$setting.setting_dateformat` в `$setting.Написать на моей стенеuser_info.user_username) (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 12:32:16] PHP Fatal error:  Smarty error: [in header.tpl line 180]: syntax error: unexpected {else} (Smarty_Compiler.class.php, line 471) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[20-Jun-2012 12:35:34] PHP Fatal error:  Smarty error: [in profile.tpl line 756]: syntax error: unrecognized tag: $datetime->cdate("`$setting.setting_dateformat` в `$setting.setting_timeformat`", $datetime->timezone(/iframe
+ 
+      {else (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[21-Jun-2012 03:41:24] PHP Fatal error:  Smarty error: [in login.tpl line 65]: syntax error: unrecognized tag 'literal' (Smarty_Compiler.class.php, line 583) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[21-Jun-2012 03:41:56] PHP Fatal error:  Smarty error: [in login.tpl line 66]: syntax error: unrecognized tag 'literal' (Smarty_Compiler.class.php, line 583) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[21-Jun-2012 05:16:28] PHP Fatal error:  Class 'se_datetime' not found in /home/u388590976/public_html/header.php on line 60
+[21-Jun-2012 05:16:29] PHP Fatal error:  Class 'se_datetime' not found in /home/u388590976/public_html/header.php on line 60
+[21-Jun-2012 05:16:57] PHP Fatal error:  Class 'se_datetime' not found in /home/u388590976/public_html/header.php on line 60
+[21-Jun-2012 05:16:59] PHP Fatal error:  Class 'se_datetime' not found in /home/u388590976/public_html/header.php on line 60
+[21-Jun-2012 05:17:00] PHP Fatal error:  Class 'se_datetime' not found in /home/u388590976/public_html/header.php on line 60
+[22-Jun-2012 00:41:07] PHP Fatal error:  Smarty error: [in user_event_add.tpl line 322]: syntax error: mismatched tag {/if}. (Smarty_Compiler.class.php, line 2289) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[22-Jun-2012 05:27:53] PHP Warning:  Smarty error: math: parameter x is empty in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[22-Jun-2012 06:26:23] PHP Fatal error:  Smarty error: [in profile.tpl line 810]: syntax error: unclosed tag \{if} (opened line 810). (Smarty_Compiler.class.php, line 320) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[22-Jun-2012 06:54:48] PHP Warning:  Smarty error: unable to read resource: "payments_procent.tpl" in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[22-Jun-2012 06:54:59] PHP Warning:  Smarty error: unable to read resource: "payments_procent.tpl" in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[22-Jun-2012 06:56:48] PHP Warning:  Smarty error: unable to read resource: "payments_procent.tpl" in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[22-Jun-2012 06:57:06] PHP Warning:  Smarty error: unable to read resource: "payments_procent.tpl" in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[23-Jun-2012 03:39:34] PHP Parse error:  syntax error, unexpected $end in /home/u388590976/public_html/lang/lang_russian.php on line 875
+[23-Jun-2012 13:28:58] PHP Fatal error:  Smarty error: [in signup.tpl line 229]: syntax error: unclosed tag \{section} (opened line 227). (Smarty_Compiler.class.php, line 320) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[23-Jun-2012 13:42:15] PHP Fatal error:  Call to a member function user_friend_total() on a non-object in /home/u388590976/public_html/header.php on line 20
+[23-Jun-2012 13:42:35] PHP Fatal error:  Call to a member function user_friend_total() on a non-object in /home/u388590976/public_html/header.php on line 49
+[23-Jun-2012 13:42:35] PHP Fatal error:  Call to a member function user_friend_total() on a non-object in /home/u388590976/public_html/header.php on line 49
+[23-Jun-2012 13:42:38] PHP Fatal error:  Call to a member function user_friend_total() on a non-object in /home/u388590976/public_html/header.php on line 49
+[23-Jun-2012 13:43:28] PHP Fatal error:  Call to a member function user_friend_total() on a non-object in /home/u388590976/public_html/header.php on line 48
+[23-Jun-2012 13:43:36] PHP Fatal error:  Call to a member function user_friend_total() on a non-object in /home/u388590976/public_html/header.php on line 48
+[23-Jun-2012 13:43:36] PHP Fatal error:  Call to a member function user_friend_total() on a non-object in /home/u388590976/public_html/header.php on line 48
+[23-Jun-2012 13:46:49] PHP Fatal error:  Call to a member function user_friend_total() on a non-object in /home/u388590976/public_html/header.php on line 7
+[23-Jun-2012 13:46:50] PHP Fatal error:  Call to a member function user_friend_total() on a non-object in /home/u388590976/public_html/header.php on line 7
+[23-Jun-2012 13:48:03] PHP Parse error:  syntax error, unexpected '<' in /home/u388590976/public_html/header.php on line 2
+[23-Jun-2012 13:48:03] PHP Parse error:  syntax error, unexpected '<' in /home/u388590976/public_html/header.php on line 2
+[23-Jun-2012 13:48:19] PHP Fatal error:  Call to a member function user_friend_total() on a non-object in /home/u388590976/public_html/header.php on line 3
+[23-Jun-2012 13:48:19] PHP Fatal error:  Call to a member function user_friend_total() on a non-object in /home/u388590976/public_html/header.php on line 3
+[23-Jun-2012 14:25:52] PHP Fatal error:  Call to a member function user_friend_total() on a non-object in /home/u388590976/public_html/header.php on line 3
+[23-Jun-2012 14:26:08] PHP Fatal error:  Call to a member function user_friend_total() on a non-object in /home/u388590976/public_html/header.php on line 49
+[23-Jun-2012 14:26:08] PHP Fatal error:  Call to a member function user_friend_total() on a non-object in /home/u388590976/public_html/header.php on line 49
+[23-Jun-2012 14:45:48] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/u388590976/public_html/user_messages.php on line 29
+[23-Jun-2012 14:48:22] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/u388590976/public_html/user_messages.php on line 29
+[23-Jun-2012 14:48:25] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/u388590976/public_html/user_messages.php on line 29
+[23-Jun-2012 14:48:30] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/u388590976/public_html/user_messages.php on line 29
+[23-Jun-2012 14:48:35] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/u388590976/public_html/user_messages.php on line 29
+[23-Jun-2012 14:48:41] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/u388590976/public_html/user_messages.php on line 29
+[23-Jun-2012 14:48:59] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/u388590976/public_html/user_messages.php on line 29
+[24-Jun-2012 04:59:54] PHP Warning:  Smarty error: unable to read resource: "header_top.tpl" in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[24-Jun-2012 04:59:54] PHP Warning:  Smarty error: unable to read resource: "header_shapka.tpl" in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[24-Jun-2012 04:59:54] PHP Warning:  Smarty error: unable to read resource: "header_menu.tpl" in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[24-Jun-2012 05:20:32] PHP Warning:  Smarty error: unable to read resource: "header_tpl" in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[24-Jun-2012 05:34:38] PHP Warning:  Smarty error: unable to read resource: "admin.tpl" in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[24-Jun-2012 06:34:03] PHP Warning:  Smarty error: unable to read resource: "header_tpl" in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[24-Jun-2012 08:17:19] PHP Fatal error:  Smarty error: [in header.tpl line 109]: syntax error: unrecognized tag: noback: true (Smarty_Compiler.class.php, line 439) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[24-Jun-2012 08:42:42] PHP Fatal error:  Smarty error: [in album_file.tpl line 1]: syntax error: unclosed tag \{elseif} (opened line 1). (Smarty_Compiler.class.php, line 320) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[24-Jun-2012 08:43:24] PHP Fatal error:  Smarty error: [in album_file.tpl line 1]: syntax error: unclosed tag \{if} (opened line 1). (Smarty_Compiler.class.php, line 320) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
+[24-Jun-2012 08:47:11] PHP Fatal error:  Smarty error: [in user_event_add.tpl line 322]: syntax error: mismatched tag {/if}. (Smarty_Compiler.class.php, line 2289) in /home/u388590976/public_html/include/smarty/Smarty.class.php on line 1095
